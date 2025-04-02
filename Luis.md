@@ -1,1 +1,1 @@
-Lukas mag XiXingPing und Kim Jong UN
+Lukas liebt XiXingPing und Kim Jong UN
