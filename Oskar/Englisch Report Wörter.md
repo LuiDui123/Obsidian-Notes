@@ -8,4 +8,14 @@
 - 55% of the people surveyed ...
 - as well as
 - attention need to be paid
-- 
+- may be perceived
+- however
+- thus
+- could be adapted
+- could be implemented
+- furthermore
+- not only ... but also
+
+# Conclusion
+- Based on the findings of the survey
+- it can be said
