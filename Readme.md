@@ -1,4 +1,4 @@
 ![[images.jpg]]
-```java
-sksaksaksa
+```python
+print("Hello World")
 ```
