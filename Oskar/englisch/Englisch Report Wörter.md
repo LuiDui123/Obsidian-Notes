@@ -7,7 +7,7 @@
 - The findings of the survey show that
 - 55% of the people surveyed ...
 - as well as
-- attention need to be paid
+- attention needs to be paid
 - may be perceived
 - however
 - thus
