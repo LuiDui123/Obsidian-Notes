@@ -1,4 +1,4 @@
 ![[images.jpg]]
 ```java
-print("Hello World")
+print("Oskar trinkt Lukas-Bier mit 4,87 vol")
 ```
