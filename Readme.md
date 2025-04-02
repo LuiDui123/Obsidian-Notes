@@ -1,4 +1,4 @@
 ![[images.jpg]]
-```python
+```java
 print("Hello World")
 ```
