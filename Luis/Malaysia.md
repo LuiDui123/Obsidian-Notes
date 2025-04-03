@@ -52,4 +52,5 @@ Oben Links blauer Kasten mit gelben Sichelmond (Islam als Staatsreligion) und 14
 5. The real GOAT: Nicol David (1. Platz bei britischem Squash)
 
 ## Medizin
+These can be grouped into four basic varieties, namely, traditional "native," traditional Chinese, traditional Indian and modern medicine
 
