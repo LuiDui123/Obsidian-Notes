@@ -49,4 +49,4 @@ Oben Links blauer Kasten mit gelben Sichelmond (Islam als Staatsreligion) und 14
 2. Schauspieler: Michelle Yeoh, Guy Sebastian
 3. Badminton Spieler:  Lee Chong Wei
 4. Rapper: Wee Meng Chee (Alias: Namewee)
-5. The real GOAT: Nicol David (1. Platz bei britischem Squash) 
+5. The real GOAT: Nicol David (1. Platz bei britischem Squash) w
