@@ -33,7 +33,7 @@ P3. Kuala Lumpur hat keinen Erbmonarchen, Hauptsitz vom Monarch.
 12. Man soll die Köpfe der Kinder nicht berühren, da sie als heilig gelten. 
 13. Tabu-zahlen: 0, 4, 13; Glücks-zahlen: 8, 9, 3, 6, 168;
 14. Begrüßung mit Handschlag und danach führt man die Hand zum Herzen. Begrüßt man jemanden der Älter hält man die andere Hand mit beiden Händen und küsst sie.
-15. Gleichaltrige nennen sich Bruder und Schwester
+15. Gleichaltrige nennen sich Bruder und Schwester7
 
 ## Flagge
 Farben der Flagge: Rot, weiß, blau und gelb; 
