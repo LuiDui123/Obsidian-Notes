@@ -32,7 +32,6 @@ Wichtige Handelspartner sind China (26 %), die USA (14,72 %), Hongkong (14,11 %)
 
 
 5. Drei Thesen zur zukünftigen Beziehung zwischen Taiwan und China:
-
 	1. Taiwan wird seine faktische Unabhängigkeit weiter ausbauen und internationale Unterstützung suchen, während China den diplomatischen und wirtschaftlichen Druck erhöht.
 	    
 	2. China könnte versuchen, Taiwan durch wirtschaftliche Anreize oder politischen Druck schrittweise in das eigene System zu integrieren, anstatt eine militärische Lösung zu forcieren.
@@ -41,7 +40,6 @@ Wichtige Handelspartner sind China (26 %), die USA (14,72 %), Hongkong (14,11 %)
     
 
 6. Begründung für den unabhängigen Status Taiwans:
-
 	- **Ökonomisch**: Taiwan ist eine der führenden Industrienationen mit einer hochentwickelten Wirtschaft, insbesondere in der Halbleiterindustrie. Eine Eingliederung in China könnte die wirtschaftliche Stabilität gefährden.
 	    
 	- **Emotional**: Viele Taiwaner sehen sich als eigenständige Nation mit einer eigenen Identität, die sich von China unterscheidet.
