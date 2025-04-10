@@ -1,3 +1,5 @@
+#### by Oskar Baumann 10.04.2025
+
 The aim of this report is to present the amount of hours spent by the different ages doing homework per week, based on a survey carried out among pupils.
 
 Moreover, it will comment on the importance of homework and suggest ways to reduce the amount of homework.
