@@ -11,7 +11,7 @@ Wichtige Handelspartner sind China (26 %), die USA (14,72 %), Hongkong (14,11 %)
 
 3. a: **Merkmale:**
 
-- Taiwan ist weltweit führend in der Halbleiterindustrie, insbesondere durch TSMC.
+- Taiwan ist weltweit führend in der Halbleiterindustrie, insbesondere durch TSMC(Chips).
 - Hohe Exportquote und starke internationale Handelsbeziehungen.
 - Hochqualifizierte Arbeitskräfte und moderne Technologie.
 - Politische Stabilität und eine marktwirtschaftlich orientierte Wirtschaftsordnung.
