@@ -1,10 +1,9 @@
-1. ![[Pasted image 20250320104549.png]]
+1. 160 Kilometer von der Südostküste des chinesischen Festlandes entfernt im Pazifischen Ozean![[Pasted image 20250320104549.png]]
 
 
 2. Taiwan hat eine hochentwickelte, exportorientierte Wirtschaft. Wichtige Sektoren sind:
 
-- **Industrie:** Insbesondere die Halbleiterproduktion, mit TSMC als weltweitem Marktführer. Die Industrie ist stark auf den Export ausgerichtet.
-- **Dienstleistungen:** Umfasst Finanzwesen, Handel und moderne Dienstleistungen.
+- **Industrie:** Insbesondere die Halbleiterproduktion, mit TSMC als weltweitem Marktführer (fast Monopolstellung). Die Industrie ist stark auf den Export ausgerichtet.
 - **Landwirtschaft:** Spielt eine untergeordnete Rolle im Vergleich zur Industrie und den Dienstleistungen.
 
 Wichtige Handelspartner sind China (26 %), die USA (14,72 %), Hongkong (14,11 %) und Japan (6,54 %). Taiwan ist besonders für seine Rolle im globalen Halbleitermarkt bekannt, der für zahlreiche Technologien weltweit essentiell ist.
