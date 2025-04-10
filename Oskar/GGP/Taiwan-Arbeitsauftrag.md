@@ -32,7 +32,7 @@ Wichtige Handelspartner sind China (26 %), die USA (14,72 %), Hongkong (14,11 %)
 	5. Herausforderungen: alternde Bevölkerung & stagnierende natürliche Wachstumsrate.
 
 
-4. Das Fluggansmodell beschreibt die Entwicklung Ostasiens, bei der sich Länder in unterschiedlichen Entwicklungsphasen gegenseitig unterstützen. Taiwan gilt als „zweite Reihe“ nach Japan, das als erstes Land industrialisiert wurde. Durch den technologischen Fortschritt und die Exportorientierung hat Taiwan selbst eine Vorreiterrolle im Halbleiterbereich eingenommen. Es fungiert als wichtiger Produzent für weiterentwickelte Volkswirtschaften und als Modell für weniger entwickelte Länder in der Region.
+4. Das Fluggänsemodell beschreibt die Entwicklung Ostasiens, bei der sich Länder in unterschiedlichen Entwicklungsphasen gegenseitig unterstützen. Taiwan gilt als „zweite Reihe“ nach Japan, das als erstes Land industrialisiert wurde. Durch den technologischen Fortschritt und die Exportorientierung hat Taiwan selbst eine Vorreiterrolle im Halbleiterbereich eingenommen. Es fungiert als wichtiger Produzent für weiterentwickelte Volkswirtschaften und als Modell für weniger entwickelte Länder in der Region.
 
 
 
