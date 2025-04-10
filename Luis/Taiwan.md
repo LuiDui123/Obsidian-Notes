@@ -7,7 +7,6 @@
 5) Drei Thesen zur zukünftigen Beziehung zwischen Taiwan und China:
 	- Taiwan wird seine faktische Unabhängigkeit bewahren, auch ohne offizielle Anerkennung.
 	- China könnte durch wirtschaftlichen Druck eine engere Anbindung Taiwans erzwingen.
-	    
 	- Eine friedliche Koexistenz ist möglich, wenn beide Seiten pragmatische Lösungen finden.
 6) Begründung für Taiwans de-facto-Unabhängigkeit:
 	- **Ökonomisch:** Taiwan hat eine starke Wirtschaft und ist technologisch führend (z. B. Halbleiterindustrie).
