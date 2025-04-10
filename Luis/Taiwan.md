@@ -6,7 +6,6 @@
 4) Taiwan hat zur Industrialisierung von Asien massiv vorangetrieben, Monopole bsp für andere
 5) Drei Thesen zur zukünftigen Beziehung zwischen Taiwan und China:
 	- Taiwan wird seine faktische Unabhängigkeit bewahren, auch ohne offizielle Anerkennung.
-	    
 	- China könnte durch wirtschaftlichen Druck eine engere Anbindung Taiwans erzwingen.
 	    
 	- Eine friedliche Koexistenz ist möglich, wenn beide Seiten pragmatische Lösungen finden.
