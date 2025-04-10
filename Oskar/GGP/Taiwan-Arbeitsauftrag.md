@@ -24,7 +24,12 @@ Wichtige Handelspartner sind China (26 %), die USA (14,72 %), Hongkong (14,11 %)
 - Strategische Position in Ostasien, die den Zugang zu wichtigen Märkten erleichtert.
 
 
-3. b: Taiwan ist ein hochentwickeltes Land mit einem hohen BIP pro Kopf und einer modernen Infrastruktur. Die Lebenserwartung liegt bei 81 Jahren, was auf ein gutes Gesundheitssystem hinweist. Die Arbeitslosenquote ist mit 4 % niedrig, die Urbanisierungsrate liegt bei 79 %, was eine hohe Verstädterung zeigt. Dennoch gibt es Herausforderungen, wie die alternde Bevölkerung und eine stagnierende natürliche Wachstumsrate.
+3. b: .
+	1. Taiwan ist hochentwickeltes Land mit hohen BIP pro Kopf & einer modernen Infrastruktur.
+	2. Lebenserwartung: 81 Jahren -> gutes Gesundheitssystem
+	3. Arbeitslosenquote ist mit 4 % niedrig
+	4. Urbanisierungsrate liegt bei 79 %, was eine hohe Verstädterung zeigt
+	5. Herausforderungen: alternde Bevölkerung & stagnierende natürliche Wachstumsrate.
 
 
 4. Das Fluggansmodell beschreibt die Entwicklung Ostasiens, bei der sich Länder in unterschiedlichen Entwicklungsphasen gegenseitig unterstützen. Taiwan gilt als „zweite Reihe“ nach Japan, das als erstes Land industrialisiert wurde. Durch den technologischen Fortschritt und die Exportorientierung hat Taiwan selbst eine Vorreiterrolle im Halbleiterbereich eingenommen. Es fungiert als wichtiger Produzent für weiterentwickelte Volkswirtschaften und als Modell für weniger entwickelte Länder in der Region.
