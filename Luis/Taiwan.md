@@ -19,5 +19,4 @@
 	- **Annäherung an China:** Mehr wirtschaftliche Vorteile, aber schrittweise Einschränkung demokratischer Freiheiten.
 	- **Gewaltsame Annexion durch China:** Verlust der Demokratie, aber Stabilität aus Pekings Sicht.
 	- **"Ein Land, zwei Systeme":** Autonomie bleibt bestehen, aber langfristig Einfluss Chinas wachsend.
-	    
 	- **Status quo beibehalten:** Keine Eskalation, aber keine offizielle Klärung des Konflikts.
