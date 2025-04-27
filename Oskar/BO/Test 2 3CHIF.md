@@ -28,3 +28,11 @@
 
 # formelle und informelle Organisation
 Man geht vom Eisbergmodell aus. Das heißt, die 20% die man sieht, sind ==formelle Organisation und beziehen sich auf die Sachebene==. Und die restlichen 80% sind ==informelle Organisation und beziehen sich auf die Beziehungsebene==.
+
+
+- informell
+	- vom Unternehmen nicht geplante Strukturen
+	- entstehen in erster Linie durch soziale Kontakte und Beziehungen
+- formell
+	- vom Unternehmen offiziell geplante und bewusst gestaltete Strukturen
+	- werden personenunabhängig festgelegt
