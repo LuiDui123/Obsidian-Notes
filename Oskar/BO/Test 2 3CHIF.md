@@ -85,3 +85,10 @@ Man geht vom Eisbergmodell aus. Das heißt, die 20% die man sieht, sind ==formel
 
 
 
+## Kommunikationsstil
+- harte Interview
+	- ==Sachorientiert und autoritär==. Der Interviewer geht davon aus, dass der Befragte lügt und übt ständig Druck aus, damit der Befragte nur wenig Zeit zum Antworten hat und keine Zeit hat sich falsche Antworten auszudenken
+- weiche Interview
+	- ==Freundschaftlich==. Das Interview richtet sich nach dem Befragten. Der Interviewer redet persönlich mit ihm und gibt ihm so viel Zeit wie er braucht um die richtige Antwort zu geben.
+- neutrale Interview
+	- Es soll nicht gemein aber auch nicht persönlich werden. Es wird kein Druck ausgeübt, aber der Interviewer sagt zb nicht Sachen wie "Ich hätte genauso gehandelt".
