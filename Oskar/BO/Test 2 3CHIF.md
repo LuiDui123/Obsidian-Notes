@@ -72,3 +72,16 @@ Man geht vom Eisbergmodell aus. Das heißt, die 20% die man sieht, sind ==formel
 - nicht objektiv
 	- Die Aussagen werden von den Mitarbeitern selbst getätigt. Jedoch kann das zu bewussten, oder auch unbewussten Manipulationen der Informationen führen.
 	- zb Interview, Fragebogen, Tagesbericht
+
+
+# Interview
+## Interview Strukturierungsgrad
+- standardisiert
+	- fixe Fragen und Reihenfolge vorgegeben, die der Interviewer auch so abarbeiten muss
+- halbstandardisiert
+	- es gibt vorgefertigte Fragen und Reihenfolge, jedoch kann der Interviewer, je nach der Situation, das ändern und Zusatzfragen stellen
+- nicht-standardisiert
+	- Interviewer hat nur einen Katalog mit Infos ==die im Interview gewonnen werden sollen,== und bildet selbst seine Fragen
+
+
+
