@@ -22,3 +22,5 @@
 - Mehrliniensystem: jeder Mitarbeiter kann mehrere Vorgesetzten haben
 	- ==Gliederung== nach ==Bereichen/Sparten und Funktionen== = Matrixorganisation
 
+# Ablauforganisation
+==Ablauforganisation regelt, welche== Arbeitsschritte in ==welchen== Abteilungen, in ==welcher== Reihenfolge zu organisieren. Zusammengehörende Arbeitsschritte nennt man Prozesse. Auch bei Abteilungen muss die Zusammenarbeit geregelt werden. Ziel ist es, die Arbeit so effizient wie möglich zu organisieren. (Wirtschaftlichkeitsprinzip)
