@@ -24,3 +24,7 @@
 
 # Ablauforganisation
 ==Ablauforganisation regelt, welche== Arbeitsschritte in ==welchen== Abteilungen, in ==welcher== Reihenfolge zu organisieren. Zusammengehörende Arbeitsschritte nennt man Prozesse. Auch bei Abteilungen muss die Zusammenarbeit geregelt werden. Ziel ist es, die Arbeit so effizient wie möglich zu organisieren. (Wirtschaftlichkeitsprinzip)
+
+
+# formelle und informelle Organisation
+Man geht vom Eisbergmodell aus. Das heißt, die 20% die man sieht, sind ==formelle Organisation und beziehen sich auf die Sachebene==. Und die restlichen 80% sind ==informelle Organisation und beziehen sich auf die Beziehungsebene==.
