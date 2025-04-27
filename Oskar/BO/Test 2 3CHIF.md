@@ -65,3 +65,10 @@ Man geht vom Eisbergmodell aus. Das heißt, die 20% die man sieht, sind ==formel
 
 
 
+# Erhebungstechniken
+- objektiv
+	- Die Aussagen werden von den Mitarbeitern nicht selbst getätigt, sondern vo==n der Organisation selbst==
+	- zb Beobachtung, Zählung, Messung
+- nicht objektiv
+	- Die Aussagen werden von den Mitarbeitern selbst getätigt. Jedoch kann das zu bewussten, oder auch unbewussten Manipulationen der Informationen führen.
+	- zb Interview, Fragebogen, Tagesbericht
