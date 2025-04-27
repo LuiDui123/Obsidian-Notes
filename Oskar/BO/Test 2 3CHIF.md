@@ -36,3 +36,15 @@ Man geht vom Eisbergmodell aus. Das heißt, die 20% die man sieht, sind ==formel
 - formell
 	- vom Unternehmen offiziell geplante und bewusst gestaltete Strukturen
 	- werden personenunabhängig festgelegt
+
+
+
+## Arten von informeller Organisation
+- informeller Führung
+	- zb ein Mitarbeiter mit viel Erfahrung trägt keinen Helm, deshalb schauen ihn das andere Mitarbeiter ab weil sie zu ihm heraufschauen
+- informelle Normen
+	- Verhaltensmuster die sich eingebürgert haben
+- informelle Kommunikation
+	- verschieden Mitarbeiter aus verschiedenen Abteilungen kommunizieren außerhalb der ==Kommunikationswege== miteinander über Themen/Problemen des Unternehmens. ==(Arbeit betreffende Informationen)==
+- informelle Gruppen
+	- Gruppen die sich gebildet haben (zb durch gemeinsamen Weg zur Arbeit, gleichen Interessen, gleicher Herkunft, etc.)
