@@ -13,3 +13,12 @@
 - bei ==wichtigen== Regeln, müssen auch Regeln für Ausnahmefälle definiert werden
 - Anweisungen ==sollten== direkt an den Weisungsempfänger gegeben werden
 - Zusammengefasste Aufgaben ==und die dazugehörige Verantwortung== sollten einer Stelle zugeordnet werden
+
+
+## Arten der Aufbauorganisation
+- Einliniensystem: jeder Mitarbeiter hat genau einen Vorgesetzten
+	- ==Gliederung== nach Funktionen
+	- ==Gliederung== nach Sparten
+- Mehrliniensystem: jeder Mitarbeiter kann mehrere Vorgesetzten haben
+	- ==Gliederung== nach ==Bereichen/Sparten und Funktionen== = Matrixorganisation
+
