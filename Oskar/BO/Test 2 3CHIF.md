@@ -48,3 +48,17 @@ Man geht vom Eisbergmodell aus. Das heißt, die 20% die man sieht, sind ==formel
 	- verschieden Mitarbeiter aus verschiedenen Abteilungen kommunizieren außerhalb der ==Kommunikationswege== miteinander über Themen/Problemen des Unternehmens. ==(Arbeit betreffende Informationen)==
 - informelle Gruppen
 	- Gruppen die sich gebildet haben (zb durch gemeinsamen Weg zur Arbeit, gleichen Interessen, gleicher Herkunft, etc.)
+
+
+
+
+
+
+# Organisationkreislauf
+1. ==Auswahl== des Organisationsproblemes
+2. ==Aufnahme== des Ist Zustandes
+3. Analyse des Ist Zustandes
+4. ==Entwicklung einer== Soll ==Konzeption==
+5. ==Einführung der== Soll ==Konzeption==
+6. Kontrolle
+
