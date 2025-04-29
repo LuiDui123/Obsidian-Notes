@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"5bc1ce85df0a165f","x":-446,"y":92,"width":250,"height":60,"type":"text","text":"Epik"},
+		{"id":"63feefc29df14df4","x":54,"y":92,"width":250,"height":60,"type":"text","text":"Lyrik"},
+		{"id":"7e2b5968be1c7d52","x":-196,"y":-100,"width":250,"height":60,"type":"text","text":"Dramatik"}
+	],
+	"edges":[]
+}
