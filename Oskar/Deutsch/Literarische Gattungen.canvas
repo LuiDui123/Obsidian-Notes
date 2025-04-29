@@ -1,8 +1,13 @@
 {
 	"nodes":[
-		{"id":"5bc1ce85df0a165f","x":-446,"y":92,"width":250,"height":60,"type":"text","text":"Epik"},
-		{"id":"63feefc29df14df4","x":54,"y":92,"width":250,"height":60,"type":"text","text":"Lyrik"},
-		{"id":"7e2b5968be1c7d52","x":-196,"y":-100,"width":250,"height":60,"type":"text","text":"Dramatik"}
+		{"id":"5bc1ce85df0a165f","x":-446,"y":92,"width":250,"height":60,"color":"5","type":"text","text":"Epik"},
+		{"id":"63feefc29df14df4","x":54,"y":92,"width":250,"height":60,"color":"5","type":"text","text":"Lyrik"},
+		{"id":"7e2b5968be1c7d52","x":-196,"y":-100,"width":250,"height":60,"color":"5","type":"text","text":"Dramatik"},
+		{"id":"735f0fa97d727c3c","x":-446,"y":-260,"width":180,"height":60,"type":"text","text":"kein Erzähler"},
+		{"id":"389c4acc592a18b1","x":-131,"y":-290,"width":120,"height":60,"type":"text","text":"Dialog"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"7f66605ccf70bc93","fromNode":"735f0fa97d727c3c","fromSide":"bottom","toNode":"7e2b5968be1c7d52","toSide":"left","toEnd":"none"},
+		{"id":"b5c3ac7e48621bb0","fromNode":"389c4acc592a18b1","fromSide":"bottom","toNode":"7e2b5968be1c7d52","toSide":"top","toEnd":"none"}
+	]
 }
