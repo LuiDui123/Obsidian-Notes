@@ -1,5 +1,5 @@
 BC nach A
-M folgt auf B
+MD folgt auf B
 EF folgen auf C
 E folgt auch auf D
 G auf EF
