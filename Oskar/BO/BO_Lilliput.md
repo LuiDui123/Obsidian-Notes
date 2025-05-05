@@ -28,3 +28,4 @@ L -> J
 H -> JG
 O -> LHN
 G -> H
+K -> N
