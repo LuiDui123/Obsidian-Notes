@@ -25,5 +25,6 @@ I -> E
 N -> M
 J  -> I
 L -> J
-H -> J
+H -> JG
 O -> LHN
+G -> H
