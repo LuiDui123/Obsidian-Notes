@@ -1,6 +1,6 @@
 # BS. 192-193
 ## Faschismus: 
-- Eine Führer rolle, 
+- Eine Führer rolle,
 - Gesellschaft höher als Individuum, 
 - Radikale Zukunftsvision, äußere und innere Feinde hindern den Führer daran. 
 - im Kommunismus "klassenlose Gesellschaft", Nationalsozialismus "Arier"
