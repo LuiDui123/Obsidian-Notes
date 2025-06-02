@@ -28,7 +28,7 @@
 1. „Ich kam, sah und siegte.“  
 2. „Er weinte, jammerte, schrie.“
 
-### die Personifikationen  
+### die Personifikation 
 **Erklärung:** Personifikationen sind Stilmittel, bei denen unbelebte Dinge oder abstrakte Begriffe menschliche Eigenschaften oder Handlungen erhalten.  
 **Beispiele:**  
 1. „Die Zeit rennt.“  
