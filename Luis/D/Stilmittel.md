@@ -16,7 +16,7 @@
 1. „Der Geist ist willig, aber das Fleisch ist schwach.“  
 2. „Himmel und Hölle, Licht und Schatten.“
 
-### Ellipsen  
+### Ellipsen
 **Erklärung:** Ellipsen sind unvollständige Sätze, bei denen Wörter ausgelassen werden, die aber trotzdem verständlich sind.  
 **Beispiele:**  
 1. „Je schneller, desto besser.“ (statt: Je schneller es geht, desto besser ist es.)  
